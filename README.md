@@ -53,7 +53,8 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-![image](https://github.com/shoaib3136/OS-Linux-commands-Shell-script/assets/117919362/0119401d-8e53-42c4-ab54-ce749dc6a03e)
+<img width="346" height="226" alt="image" src="https://github.com/user-attachments/assets/cb05d6b1-c77f-4a89-9486-f06cb0d98714" />
+
 
 
 
